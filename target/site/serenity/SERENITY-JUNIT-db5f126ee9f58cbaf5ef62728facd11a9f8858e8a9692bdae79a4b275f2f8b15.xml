@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="tests.LoggingTest" skipped="0" tests="1" time="54.34" timestamp="2022-04-07 03:46:12"><testcase classname="tests.LoggingTest" name="Log in"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="tests.LoggingTest" skipped="0" tests="1" time="16.81" timestamp="2022-04-08 12:38:48"><testcase classname="tests.LoggingTest" name="Log in"/></testsuite>
